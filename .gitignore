@@ -1,18 +1,8 @@
-﻿# Virtual Environment
-.venv/
+﻿.venv/
 venv/
-ENV/
-
-# Python Cache & Artifacts
 __pycache__/
 *.py[cod]
-*$py.class
 .pytest_cache/
-
-# Databases & OS Files
 *.db
 .DS_Store
-Thumbs.db
-
-# Reports HTML/Temp Files
 reports/pytest_report.html
