@@ -1,0 +1,490 @@
+company_id,type,rule_id,text,confidence_pct
+COMP_01,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,81
+COMP_01,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_01,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_01,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_01,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_02,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_02,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_02,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_02,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_02,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_02,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_02,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_02,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_03,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,71
+COMP_03,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_03,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_03,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_03,con,C1,Debt-to-equity ratio of 2.38 is elevated for a non-financial company and warrants monitoring,85
+COMP_03,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_04,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_04,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_04,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_04,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_04,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_04,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_05,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,77
+COMP_05,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_05,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_05,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_05,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_05,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_05,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_06,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,79
+COMP_06,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_06,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_06,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_06,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_06,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_07,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_07,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_07,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_07,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_07,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_07,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,70
+COMP_08,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,77
+COMP_08,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_08,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_08,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_08,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_08,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_08,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_09,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,71
+COMP_09,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_09,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_09,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_09,con,C1,Debt-to-equity ratio of 2.35 is elevated for a non-financial company and warrants monitoring,85
+COMP_10,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_10,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_10,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_10,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_10,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_11,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_11,con,C1,Debt-to-equity ratio of 2.24 is elevated for a non-financial company and warrants monitoring,85
+COMP_11,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_12,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,82
+COMP_12,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_12,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_12,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_12,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_12,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_13,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_13,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_13,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_13,con,C1,Debt-to-equity ratio of 2.47 is elevated for a non-financial company and warrants monitoring,85
+COMP_13,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_14,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_14,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_14,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_14,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_14,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_14,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,70
+COMP_15,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_15,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_15,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_15,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_16,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_16,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_16,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_16,con,C1,Debt-to-equity ratio of 2.35 is elevated for a non-financial company and warrants monitoring,85
+COMP_16,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_17,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_17,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_17,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_17,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_17,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_17,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_18,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_18,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_18,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_18,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_19,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_19,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_19,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_19,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_19,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_20,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_20,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_20,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_21,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_21,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_21,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_21,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_22,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_22,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_22,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_23,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,77
+COMP_23,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_23,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_23,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_24,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_24,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_24,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_24,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_24,con,C1,Debt-to-equity ratio of 2.11 is elevated for a non-financial company and warrants monitoring,85
+COMP_25,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_25,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_25,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_26,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_26,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_26,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_26,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_26,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_26,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_26,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,70
+COMP_27,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_27,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_27,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_27,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_27,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_27,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_27,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_28,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_28,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_28,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_28,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_29,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,79
+COMP_29,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_29,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_29,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_29,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_29,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_29,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_29,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_30,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_30,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_30,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_30,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_30,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_31,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_31,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_31,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_31,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_32,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_32,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_32,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_32,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_32,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_32,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_32,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_33,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,81
+COMP_33,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_33,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_33,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_33,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_34,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,77
+COMP_34,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_34,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_34,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_34,con,C1,Debt-to-equity ratio of 2.17 is elevated for a non-financial company and warrants monitoring,85
+COMP_34,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_34,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,70
+COMP_35,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,72
+COMP_35,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_35,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_35,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_35,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_35,con,C1,Debt-to-equity ratio of 2.24 is elevated for a non-financial company and warrants monitoring,85
+COMP_35,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_36,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_36,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_36,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_36,con,C1,Debt-to-equity ratio of 2.44 is elevated for a non-financial company and warrants monitoring,85
+COMP_37,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_37,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_37,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_37,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_37,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_37,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_38,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,76
+COMP_38,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_38,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_38,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_38,con,C1,Debt-to-equity ratio of 2.40 is elevated for a non-financial company and warrants monitoring,85
+COMP_38,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_39,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_39,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_39,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_39,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_40,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,83
+COMP_40,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_40,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_40,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_40,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_40,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_40,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_40,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_40,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_41,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_41,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_41,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_41,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_41,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_42,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_42,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_42,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_42,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_42,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_43,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_43,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_43,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_43,con,C1,Debt-to-equity ratio of 2.46 is elevated for a non-financial company and warrants monitoring,85
+COMP_43,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,70
+COMP_44,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,83
+COMP_44,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_44,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_44,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_44,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_45,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_45,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_45,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_45,con,C1,Debt-to-equity ratio of 2.21 is elevated for a non-financial company and warrants monitoring,85
+COMP_45,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_46,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_46,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_46,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_46,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_46,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_47,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,78
+COMP_47,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_47,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_47,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_48,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_48,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_48,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_48,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_48,con,C1,Debt-to-equity ratio of 2.27 is elevated for a non-financial company and warrants monitoring,85
+COMP_49,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_49,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_49,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_49,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_49,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_50,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_50,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_50,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_50,con,C1,Debt-to-equity ratio of 2.05 is elevated for a non-financial company and warrants monitoring,85
+COMP_51,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_51,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_51,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_51,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_51,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_51,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_52,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_52,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_52,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_52,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_53,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_53,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_53,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_53,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_53,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_53,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_53,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_54,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,82
+COMP_54,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_54,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_54,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_54,con,C1,Debt-to-equity ratio of 2.21 is elevated for a non-financial company and warrants monitoring,85
+COMP_54,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_54,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_54,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_55,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,74
+COMP_55,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_55,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_55,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_55,con,C1,Debt-to-equity ratio of 2.00 is elevated for a non-financial company and warrants monitoring,85
+COMP_56,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_56,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_56,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_56,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_56,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_56,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_57,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_57,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_57,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_57,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_57,con,C1,Debt-to-equity ratio of 2.47 is elevated for a non-financial company and warrants monitoring,85
+COMP_58,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,76
+COMP_58,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_58,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_58,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_58,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_59,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,76
+COMP_59,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_59,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_59,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_59,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_59,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_60,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,73
+COMP_60,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_60,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_60,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_61,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,83
+COMP_61,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_61,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_61,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_61,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_61,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_62,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,84
+COMP_62,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_62,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_62,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_62,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_62,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_63,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,80
+COMP_63,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_63,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_63,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_63,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_63,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_64,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_64,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_64,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_64,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_64,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_65,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,76
+COMP_65,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_65,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_65,con,C1,Debt-to-equity ratio of 2.39 is elevated for a non-financial company and warrants monitoring,85
+COMP_66,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_66,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_66,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_66,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_66,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_67,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,83
+COMP_67,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_67,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_67,con,C1,Debt-to-equity ratio of 2.21 is elevated for a non-financial company and warrants monitoring,85
+COMP_68,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_68,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_68,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_69,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,84
+COMP_69,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_69,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_69,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_70,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,73
+COMP_70,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_70,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_70,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_70,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_70,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_70,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_71,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,72
+COMP_71,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_71,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_71,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_71,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_72,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_72,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_72,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_72,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_72,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_73,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,77
+COMP_73,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_73,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_73,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_73,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_73,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_74,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,72
+COMP_74,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_74,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_74,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_74,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_75,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_75,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_75,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_75,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_75,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_75,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_76,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,77
+COMP_76,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_76,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_76,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_76,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,70
+COMP_77,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,77
+COMP_77,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_77,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_77,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_77,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_77,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_77,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_77,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,70
+COMP_78,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,82
+COMP_78,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_78,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_78,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_78,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_78,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_79,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,74
+COMP_79,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_79,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_79,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_79,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_79,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_79,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_80,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,76
+COMP_80,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_80,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_80,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_80,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_80,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_81,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_81,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_81,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_82,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,84
+COMP_82,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_82,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_82,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_82,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_82,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_82,con,C12,Revenue growing at below 5% over 5 years lags inflation and suggests limited business momentum,70
+COMP_83,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_83,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_83,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_83,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_83,con,C1,Debt-to-equity ratio of 2.18 is elevated for a non-financial company and warrants monitoring,85
+COMP_84,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_84,con,C1,Debt-to-equity ratio of 2.12 is elevated for a non-financial company and warrants monitoring,85
+COMP_84,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_85,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_85,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_85,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_86,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_86,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_86,con,C1,Debt-to-equity ratio of 2.45 is elevated for a non-financial company and warrants monitoring,85
+COMP_86,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_87,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_87,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_87,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_87,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_87,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_88,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_88,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_88,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_88,con,C2,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,80
+COMP_89,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_89,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_89,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_89,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_89,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_90,pro,P1,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,80
+COMP_90,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_90,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_90,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_90,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_90,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65
+COMP_91,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_91,pro,P4,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,80
+COMP_91,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_91,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_91,con,C8,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,75
+COMP_91,con,C10,Return on capital employed below 10% suggests the business is not generating sufficient returns on invested capital,75
+COMP_92,pro,P2,Strong free cash flow generation over 5 years signals healthy business fundamentals,85
+COMP_92,pro,P6,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+COMP_92,pro,P7,Very high interest coverage ratio reflects negligible financial stress from debt servicing,90
+COMP_92,pro,P9,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,80
+COMP_92,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,85
+COMP_92,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+COMP_92,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,70
+COMP_92,con,C_DEF,Growth metrics require continued monitoring against macro headwinds,65

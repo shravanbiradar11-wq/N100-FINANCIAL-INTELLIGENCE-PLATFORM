@@ -1,0 +1,75 @@
+company_id,sector,previous_pattern,current_pattern,shift_description
+COMP_01,Healthcare,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_02,Manufacturing,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_03,Pharma,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_04,Healthcare,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_06,Pharma,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_07,Pharma,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_08,Healthcare,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_09,Financials,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_11,Healthcare,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_12,Consumer Goods,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_13,Consumer Goods,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_14,Pharma,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_16,Consumer Goods,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_17,Energy,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_18,Pharma,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_19,Financials,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_21,Energy,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_22,Energy,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_23,Financials,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_24,Manufacturing,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_26,IT Services,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_27,Manufacturing,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_28,Financials,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_29,Energy,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_31,Manufacturing,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_32,IT Services,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_33,IT Services,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_34,Consumer Goods,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_36,Healthcare,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_37,Financials,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_38,Manufacturing,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_39,Manufacturing,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_41,Energy,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_42,Energy,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_43,Healthcare,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_44,Energy,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_46,Manufacturing,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_47,Healthcare,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_48,Manufacturing,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_49,IT Services,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_51,Pharma,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_52,Consumer Goods,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_53,Healthcare,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_54,Pharma,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_56,Healthcare,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_57,Financials,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_58,Manufacturing,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_59,IT Services,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_61,Energy,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_62,Financials,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_63,Financials,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_64,IT Services,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_66,Pharma,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_67,Financials,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_68,Manufacturing,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_69,Manufacturing,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_71,Manufacturing,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_72,Healthcare,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_73,Manufacturing,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_74,Pharma,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_76,Consumer Goods,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_77,Energy,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_78,IT Services,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_79,Manufacturing,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_81,Manufacturing,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_82,Financials,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_83,Energy,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_84,Energy,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_86,Financials,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_87,Manufacturing,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown
+COMP_88,Energy,Balanced Reinvestor,Aggressive Expansion,Transitioned from Balanced Reinvestor to Aggressive Expansion
+COMP_89,Pharma,Capital Intensive,Distress Signal,Transitioned from Capital Intensive to Distress Signal
+COMP_91,Financials,Balanced Reinvestor,Free Cash Flow Compounder,Transitioned from Balanced Reinvestor to Free Cash Flow Compounder
+COMP_92,Financials,Aggressive Expansion,Debt Paydown,Transitioned from Aggressive Expansion to Debt Paydown

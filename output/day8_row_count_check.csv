@@ -1,0 +1,8 @@
+table_name,actual_rows,expected_rows
+companies,100,100.0
+analysis,20,
+balancesheet,1137,
+cashflow,1152,
+documents,1585,
+profitandloss,1163,
+prosandcons,16,

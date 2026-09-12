@@ -1,0 +1,8 @@
+timestamp,table_name,rows_received,rows_loaded,rows_repaired,rows_deduplicated,rows_unresolved,status
+2026-09-04 20:22:34,companies,100,100,8,0,0,SUCCESS
+2026-09-04 20:22:34,analysis,20,20,0,0,0,SUCCESS
+2026-09-04 20:22:34,balancesheet,1312,1137,0,175,0,SUCCESS
+2026-09-04 20:22:34,cashflow,1187,1152,0,35,0,SUCCESS
+2026-09-04 20:22:34,profitandloss,1276,1163,100,13,0,SUCCESS
+2026-09-04 20:22:34,documents,1585,1585,0,0,0,SUCCESS
+2026-09-04 20:22:34,prosandcons,16,16,0,0,0,SUCCESS
